@@ -2,7 +2,7 @@
 
 1) Blackboard lecture notes:
 
-Self-contained set of notes that introduce the non-science major physical science topics form a fundamental point of view. Special emphasis given to historical development of theories and revolutionary key ideas. Topics include: Scientific Method, Measurement and Units, Newtonian Mechanics (unification, law of gravitation, particle mechanics, rigid bodies, fluids) and Relativistic Mechanics (special and general theories). Includes the mathematical tools needed to understant the physics concepts.
+Self-contained set of notes for physical science 303. Aimed at non-science majors. Special emphasis given to historical development of theories and revolutionary key ideas. Topics include: Scientific Method, Measurement and Units, Newtonian Mechanics (unification, law of gravitation, particle mechanics, rigid bodies, fluids) and Relativistic Mechanics (special and general theories). Includes the mathematical tools needed to understant the physics concepts.
 
 2) Lecture notes (in progress):
 
